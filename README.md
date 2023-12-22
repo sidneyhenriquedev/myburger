@@ -1,5 +1,5 @@
-Projeto Menu de Burgers
-Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
+##Projeto Menu de Burgers
+#Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 
 Como Usar
 Clone o repositório em sua máquina local.
