@@ -1,7 +1,7 @@
-#Projeto Menu de Burgers
+Projeto Menu de Burgers
 Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 
-#Como Usar
+Como Usar
 Clone o repositório em sua máquina local.
 Abra o arquivo index.html em um navegador web.
 
