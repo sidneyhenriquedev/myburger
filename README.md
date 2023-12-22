@@ -15,6 +15,10 @@ Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 * Exibe somente produtos Veganos.
 * Consulta CEP via API com AJAX
 
+## Imagens do Projeto
+
+<img src="./assets/project-prints/Myburger.png>
+
 ## Requisitos
 
 * Navegador web moderno.
