@@ -21,6 +21,8 @@ Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 
 <img src="./assets/project-prints/products-menu.png">
 
+<img src="./assets/project-prints/search-cep.png">
+
 ## Requisitos
 
 * Navegador web moderno.
