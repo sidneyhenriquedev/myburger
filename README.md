@@ -13,6 +13,7 @@ Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 * Exibe produtos com desconto.
 * Exibe total de todos os produtos.
 * Exibe somente produtos Veganos.
+* Consulta CEP via API com AJAX
 
 ## Requisitos
 
