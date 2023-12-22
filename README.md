@@ -20,7 +20,7 @@ Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 * Navegador web moderno.
 * Conexão com a internet para funcionalidades AJAX.
 * Clique aqui para
-<a href="https://sidneyhenriquedev.github.io/myburger>Ver MyBurger ONLINE</a>
+<a href="https://sidneyhenriquedev.github.io/myburger">Ver MyBurger ONLINE</a>
 
 ## Recursos
 
