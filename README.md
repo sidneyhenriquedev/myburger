@@ -19,8 +19,8 @@ Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 
 * Navegador web moderno.
 * Conexão com a internet para funcionalidades AJAX.
-* Clique aqui para Ver ONLINE
-<a href="https://sidneyhenriquedev.github.io/myburger/" target="_blank">Ver MyBurger ONLINE</a>
+* Clique aqui para Ver
+<a href="https://sidneyhenriquedev.github.io/myburger/>Ver MyBurger ONLINE</a>
 
 ## Recursos
 
