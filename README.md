@@ -19,7 +19,7 @@ Um simples menu de burgers criado com HTML, CSS, JavaScript, jQuery e AJAX.
 
 <img src="./assets/project-prints/Myburger.png">
 
-<img src="./assets/products-menu.png">
+<img src="./assets/project-prints/products-menu.png">
 
 ## Requisitos
 
